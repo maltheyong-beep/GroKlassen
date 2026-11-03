@@ -1,0 +1,8 @@
+{
+  "name": "groklassen",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Grønne vaner, der vokser med fællesskabet. En lokal undervisningsprototype.",
+  "scripts": { "test": "node --test core.test.js", "check": "node --check script.js && node --check core.js && node --check sw.js" }
+}
